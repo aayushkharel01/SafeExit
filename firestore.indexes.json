@@ -1,0 +1,1 @@
+{"indexes":[{"collectionGroup":"emergencies","queryScope":"COLLECTION","fields":[{"fieldPath":"organizationId","order":"ASCENDING"},{"fieldPath":"active","order":"ASCENDING"}]},{"collectionGroup":"users","queryScope":"COLLECTION","fields":[{"fieldPath":"organizationId","order":"ASCENDING"},{"fieldPath":"role","order":"ASCENDING"}]}],"fieldOverrides":[]}

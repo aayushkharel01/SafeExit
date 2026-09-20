@@ -1,0 +1,1 @@
+<resources><style name="Theme.SafeExit" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#B3261E</item></style></resources>
